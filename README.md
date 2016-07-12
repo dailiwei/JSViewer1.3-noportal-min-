@@ -9,7 +9,7 @@
 
 ## [online demo2/在线访问demo2](http://narutogis.com/apps/JSViewer1.3/?config=config_light.json)
 
-## learn way/使用方法
+## Learning method/使用方法
 
 	框架学习可参考官方api，以及我的视频课程：http://www.narutogis.com/Learn
 
