@@ -1,0 +1,8 @@
+{
+  "serviceURL": "http://tools.arcgisonline.cn/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
+  "defaultTitle": "地图",
+  "defaultAuthor": "NarutoGIS",
+  "defaultCopyright": "",
+  "defaultFormat": "JPG",
+  "defaultLayout": "Letter ANSI A Landscape"
+}

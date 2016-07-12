@@ -1,0 +1,14 @@
+{
+  "name": "QueryPop",
+  "platform": "HTML",
+  "version": "",
+  "author": "narutoGis QueryPop",
+  "description": "",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": false,
+    "hasUIFile": false,
+    "hasConfig": false
+  }
+}
