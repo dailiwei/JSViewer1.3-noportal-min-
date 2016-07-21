@@ -1,0 +1,132 @@
+{
+  "widgetOnScreen": {
+    "widgets": [{
+      "uri": "widgets/Search/Widget",
+      "position": {
+        "left": 60,
+        "top": 10
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/ZoomSlider/Widget",
+      "position": {
+        "top": 10,
+        "left":15
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/HomeButton/Widget",
+      "position": {
+        "left": 15,
+        "top": 80
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/MyLocation/Widget",
+      "position": {
+        "left": 15,
+        "top": 120
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/Scalebar/Widget",
+      "position": {
+        "left": 15,
+        "bottom": 10
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/Coordinate/Widget",
+      "position": {
+        "left": 190,
+        "bottom": 10
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/OverviewMap/Widget",
+      "position": {
+        "right": 0,
+        "bottom": 0
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/Splash/Widget",
+      "visible": false,
+      "position": {
+        "relativeTo": "browser"
+      },
+      "version": "1.4"
+    }, {
+      "position": {
+        "left": 60,
+        "top": 53
+      }
+    }, {
+      "position": {
+        "left": 105,
+        "top": 53
+      }
+    }, {
+      "position": {
+        "left": 150,
+        "top": 53
+      }
+    }, {
+      "position": {
+        "left": 195,
+        "top": 53
+      }
+    }, {
+      "position": {
+        "left": 240,
+        "top": 53
+      }
+    }]
+  },
+
+  "mobileLayout": {
+    "widgetOnScreen": {
+      "widgets": {
+        "ph_8": {
+          "position": {
+            "left": 60,
+            "top": 53
+          }
+        },
+        "ph_9": {
+          "position": {
+            "left": 105,
+            "top": 53
+          }
+        },
+        "ph_10": {
+          "position": {
+            "left": 150,
+            "top": 53
+          }
+        },
+        "ph_11": {
+          "position": {
+            "left": 195,
+            "top": 53
+          }
+        },
+        "ph_12": {
+          "position": {
+            "left": 240,
+            "top": 53
+          }
+        }
+      }
+    }
+  },
+
+  "map": {
+    "position": {
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    }
+  }
+}

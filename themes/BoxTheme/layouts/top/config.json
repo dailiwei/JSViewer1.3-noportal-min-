@@ -1,0 +1,96 @@
+{
+  "widgetOnScreen": {
+    "widgets": [{
+      "uri": "themes/BoxTheme/widgets/BoxController/Widget",
+      "position": {
+        "right": 0,
+        "top": 0
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/OverviewMap/Widget",
+      "visible": false,
+      "position": {
+        "right": 0,
+        "bottom": 0
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/ZoomSlider/Widget",
+      "visible": true,
+      "position": {
+        "left": 10,
+        "top": 10
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/HomeButton/Widget",
+      "visible": false,
+      "position": {
+        "left": 10,
+        "top": 70
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/MyLocation/Widget",
+      "visible": false,
+      "position": {
+        "left": 10,
+        "top": 100
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/Scalebar/Widget",
+      "visible": false,
+      "position": {
+        "left": 80,
+        "bottom": 20
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/Coordinate/Widget",
+      "visible": false,
+      "position": {
+        "left": 200,
+        "bottom": 20
+      },
+      "version": "1.4"
+    }, {
+      "uri": "widgets/AttributeTable/Widget",
+      "visible": false,
+      "version": "1.4",
+      "position": {
+        "relativeTo": "browser"
+      }
+    }, {
+      "uri": "widgets/Splash/Widget",
+      "visible": false,
+      "position": {
+        "relativeTo": "browser"
+      },
+      "version": "1.4"
+    }]
+  },
+
+  "map": {
+    "position": {
+      "left": 0,
+      "top": 0,
+      "right": 0,
+      "bottom": 0
+    }
+  },
+
+  "widgetPool": {
+    "panel": {
+      "uri": "themes/BoxTheme/panels/BoxPanel/Panel",
+      "positionRelativeTo": "browser",
+      "position": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "widgetOnScreen": {
+    "widgets": {
+      "themes/JewelryBoxTheme/widgets/HeaderController/Widget":{
+        "position": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "height": 40,
+          "paddingRight": 275,
+          "relativeTo": "browser"
+        }
+      },
+      "widgets/Search/Widget":{
+        "position": {
+          "right": 2,
+          "top": 2,
+          "relativeTo": "browser",
+          "zIndex": 6
+        }
+      },
+      "ph_4": {
+        "position": {
+          "left": 55,
+          "bottom": 55
+        }
+      },
+      "ph_5": {
+        "position": {
+          "left": 105,
+          "bottom": 55
+        }
+      },
+      "ph_6": {
+        "position": {
+          "left": 155,
+          "bottom": 55
+        }
+      }
+    },
+    "groups": [{
+      "visible": true,
+      "panel": {
+        "uri": "themes/JewelryBoxTheme/panels/LDockablePanel/Panel",
+        "position": {
+          "left": 0,
+          "top": 40,
+          "bottom": 0,
+          "width": 360,
+          "relativeTo": "browser"
+        }
+      }
+    }]
+  },
+  "mobileLayout": {
+    "widgetOnScreen": {
+      "widgets": {
+        "themes/JewelryBoxTheme/widgets/HeaderController/Widget":{
+          "position": {
+            "left": 0,
+            "top": 0,
+            "right": 0,
+            "height": 40,
+            "paddingRight": 0,
+            "relativeTo": "browser"
+          }
+        },
+        "widgets/Search/Widget":{
+          "position": {
+            "right": 2,
+            "top": 50,
+            "relativeTo": "browser",
+            "zIndex": 4
+          }
+        }
+      }
+    }
+  }
+}

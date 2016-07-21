@@ -1,0 +1,97 @@
+{
+  "widgetOnScreen": {
+    "widgets": {
+      "widgets/Search/Widget": {
+        "position": {
+          "left": 65,
+          "top": 10
+        }
+      },
+      "widgets/ZoomSlider/Widget": {
+        "position": {
+          "left": 15,
+          "top": 10
+        }
+      },
+      "widgets/HomeButton/Widget": {
+        "position": {
+          "left": 15,
+          "top": 80
+        }
+      },
+      "widgets/MyLocation/Widget": {
+        "position": {
+          "left": 15,
+          "top": 120
+        }
+      },
+      "ph_8": {
+        "position": {
+          "right": 15,
+          "top": 10
+        }
+      },
+      "ph_9": {
+        "position": {
+          "right": 15,
+          "top": 60
+        }
+      },
+      "ph_10": {
+        "position": {
+          "right": 15,
+          "top": 105
+        }
+      },
+      "ph_11": {
+        "position": {
+          "right": 15,
+          "top": 150
+        }
+      },
+      "ph_12": {
+        "position": {
+          "right": 15,
+          "top": 195
+        }
+      }
+    }
+  },
+
+  "mobileLayout": {
+    "widgetOnScreen": {
+      "widgets": {
+        "ph_8": {
+          "position": {
+            "right": 15,
+            "top": 53
+          }
+        },
+        "ph_9": {
+          "position": {
+            "right": 15,
+            "top": 103
+          }
+        },
+        "ph_10": {
+          "position": {
+            "right": 15,
+            "top": 148
+          }
+        },
+        "ph_11": {
+          "position": {
+            "right": 15,
+            "top": 193
+          }
+        },
+        "ph_12": {
+          "position": {
+            "right": 15,
+            "top": 238
+          }
+        }
+      }
+    }
+  }
+}
